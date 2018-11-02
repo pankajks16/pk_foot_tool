@@ -4,6 +4,8 @@
 
 ## Installation
 
+Add this line to your application's Gemfile:
+
 ```ruby
 gem 'pk_foot_tool'
 ```
