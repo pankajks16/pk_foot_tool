@@ -20,7 +20,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+PkFootTool::Renderer.copyright(your_name, message)
+```
+For example:
+
+```ruby
+PkFootTool::Renderer.copyright("Pankaj Kumar Singh", "All Rights Reserved")
+```
 
 ## Development
 
